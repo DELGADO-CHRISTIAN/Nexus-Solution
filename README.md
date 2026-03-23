@@ -15,6 +15,7 @@
 
 ## 📸 Preview
 ![App Screenshot](https://github.com/DELGADO-CHRISTIAN/Nexus-Solution/blob/main/08b20d41-7c5d-4792-ac87-4ed4aeb4fb76.jpg?raw=true)
+![App Screenshot](https://github.com/DELGADO-CHRISTIAN/Nexus-Solution/blob/main/7d06a1ba-572c-4747-aa2b-3558c99d1a34.jpg?raw=true)
 
 ## 🛠️ Run Locally
 **Prerequisites:** Node.js
