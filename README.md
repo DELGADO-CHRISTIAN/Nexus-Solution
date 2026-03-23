@@ -14,7 +14,7 @@
 * **Developer Friendly**: Pre-configured with TypeScript, ESLint, and a custom dev port (3000).
 
 ## 📸 Preview
-![App Screenshot](https://github.com/user-attachments/assets/YOUR_SCREENSHOT_ID)
+![App Screenshot](https://github.com/DELGADO-CHRISTIAN/Nexus-Solution/blob/main/08b20d41-7c5d-4792-ac87-4ed4aeb4fb76.jpg?raw=true)
 
 ## 🛠️ Run Locally
 **Prerequisites:** Node.js
