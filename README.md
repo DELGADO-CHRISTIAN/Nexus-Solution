@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="1200" height="475" alt="Nexus Solutions Banner" src="YOUR_IMAGE_URL_HERE" />
+<img width="1200" height="475" alt="Nexus Solutions Banner" src="https://github.com/DELGADO-CHRISTIAN/Nexus-Solution/blob/main/Gemini_Generated_Image_8b77ry8b77ry8b77.png?raw=true" />
 </div>
 
 # 🚀 Nexus Solutions
